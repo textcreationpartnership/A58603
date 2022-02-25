@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of an act of Parliament passed in Scotland the 29th of August 1681 for security of the Protestant religion against papists and phanaticks : together with the oath to be taken by all persons in publick trusts.</title>
+            <author>Scotland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58603</idno>
+            <idno type="STC">Wing S1197</idno>
+            <idno type="STC">ESTC R21925</idno>
+            <idno type="EEBO-CITATION">12058653</idno>
+            <idno type="OCLC">ocm 12058653</idno>
+            <idno type="VID">53181</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58603)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53181)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 822:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of an act of Parliament passed in Scotland the 29th of August 1681 for security of the Protestant religion against papists and phanaticks : together with the oath to be taken by all persons in publick trusts.</title>
+                  <author>Scotland.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randal Taylor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint information from colophon.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oaths --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Act_of_Parliament">
+            <pb n="1" facs="tcp:53181:1"/>
+            <head>
+               <figure>
+                  <head>C<hi rend="sup">2</hi> R</head>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <figDesc>English royal blazon, surmounted by a crown and flanked by the English lion and Scottish unicorn</figDesc>
+               </figure>
+            </head>
+            <head>The Copy of an ACT of PARLIAMENT paſſed in <hi>Scotland</hi> the 29th of <hi>Auguſt 1681,</hi> for Security of the <hi>Proteſtant Re<g ref="char:EOLhyphen"/>ligion</hi> againſt <hi>Papiſts</hi> and <hi>Ph<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>naticks:</hi> Together with the OATH to be taken by all Perſons in Publick Truſts.</head>
+            <p>OUR Sovereign Lord, with his Eſtates of Parliament, conſi<g ref="char:EOLhyphen"/>dering that albeit by many good and wholeſome Laws made by his Royal Grandfather and Father, of Glorious Memory, and by himſelf, in this and his other Parliaments, ſince his happy Reſtauration, the Proteſtant Religion is carefully aſ<g ref="char:EOLhyphen"/>ſerted, eſtabliſhed, and ſecured, againſt Popery and Phana<g ref="char:EOLhyphen"/>ticiſme; yet the reſtleſs Adverſaries of our Religion do not ceaſe to propa<g ref="char:EOLhyphen"/>gate their Errors, and to ſeduce His Majeſties Subjects from their Duty to God and Loyalty to his Vicegerent, and to over-turn the Eſtabliſhed Reli<g ref="char:EOLhyphen"/>gion, by introducing their Superſtitions and Deluſions into this Church and Kingdom; and knowing that nothing can more increaſe the numbers and confidencies of Papiſts and Schiſmatical Diſſentors from the Eſtabliſhed Church, than the ſupine neglect of putting in Execution the good Laws provided againſt them, together with their hopes to inſinuate themſelves into Offices and Places of Truſt and Publick Employment: THERE<g ref="char:EOLhyphen"/>FORE His Majeſty, from his Princely and Pious Zeal to maintain and preſerve the True Proteſtant Religion contained in the Confeſſion of Faith recorded in the Firſt Parliament of King <hi>JAMES</hi> the Sixth; which is founded on, and agreeable to, the Written Word of God, doth with Advice and Conſent of his Eſtates of Parliament, Require and Command
+<pb n="2" facs="tcp:53181:2"/>all his Officers, Judges, and Magiſtrates, to put the Laws made againſt Popery and Papiſt Prieſts, Jeſuits, and all Perſons of any other Order in the Popiſh Church; eſpecially againſt Sayers and Hearers of Maſs, Venters and Diſpoſers of Forbidden Books, and Reſſetters of Popiſh Prieſts and Excommunicate Papiſts, as alſo againſt all Phanatical Separatiſts from this National Church, againſt Preachers at Houſe or Field Conventicles, and the Reſetters and H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rbourers of Preachers who are Intercommuned, a<g ref="char:EOLhyphen"/>gainſt Diſorderly Baptiſms and Marriages, and Irregular Ordinations, and all other Schiſmatical Diſorders, to full and vigorous Execution, according to the Tenor of the reſpective Acts of Parliament there annent provided.</p>
+            <p>AND that His Majeſties Princely Care to have theſe Laws put in Execution againſt theſe Enemies of the Proteſtant Religion, may the more clearly ap<g ref="char:EOLhyphen"/>pear, he doth with Advice and Conſent foreſaid, STATUTE and OR<g ref="char:EOLhyphen"/>DAIN, That the Miniſter of each Pariſh give up once in <hi>October</hi> yearly to their reſpective Ordinary, tru<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and compleat Liſts of all Papiſts and Schiſ<g ref="char:EOLhyphen"/>matical With-drawers from the Publick Worſhip in their reſpective Pariſhes; which Liſts are to be ſubſcribed by them: and that the Biſhops give in a Dou<g ref="char:EOLhyphen"/>ble of the ſaid Liſts ſubſcribed by them to the reſpective Sheriffs, Stuarts, Bailies of Royalty and Regality, and Magiſtrates of Burghs, to the effect the ſaid Judges may proceed againſt them according to Law; as alſo the Sheriffs and other Magiſtrates foreſaid, are hereby ordained to give an Account to His Majeſties Privy Council in <hi>December</hi> yearly of their Pro<g ref="char:EOLhyphen"/>ceedings againſt theſe Papiſts and Phanatical Separatiſts, as they will be anſwerable at their higheſt Peril; and that the diligence done by the Sheriffs; Bailies of Regalities, and other Magiſtrates foreſaid, may be the better inquired into by the Council, the Biſhops of the reſpective Di<g ref="char:EOLhyphen"/>oceſſes are to ſend exact Doubles of the Liſts of the Papiſts and Phana<g ref="char:EOLhyphen"/>ticks to the Clarks of the Privy Council; whereby the diligencies of the Sheriffs and other Judges foreſaid, may be Comptrolled and Examined: And to cut off all hopes from Papiſts and Phanaticks of their being em<g ref="char:EOLhyphen"/>ployed in Offices and Places of Publick Truſts, it is hereby STATUTE and ORDAINED, That the following Oath ſhall be taken by all Perſons in Offices and Places of Publick Truſt, Civil, Eccleſiaſtical, and Military; eſpecially by all Members of Parliament, and all Electors of Members of Parliament; all Privy Councellors, Lords of Seſſion, Members of the Exchequer, Lords of Juſticiary, and all other Members of theſe Courts, all Officers of the Crown, of State, all Arch-Biſhops and Biſhops, and all Preachers and Miniſters of the Goſpel what ſomever, all perſons of this Kingdom named or to be named Commiſſioners for the Borders; all Members of the Com<g ref="char:EOLhyphen"/>miſſion for Church Affairs, all Sheriffs, Stuarts, Bailies of Royallities and Regallities, Juſtices of Peace, Officers of the Mint, Commiſſio<g ref="char:EOLhyphen"/>ners and their Deputies, their Clerks and Phefcalls, all Advocates and Proctors before any of theſe Courts, all Writers to the Signet, all Pub<g ref="char:EOLhyphen"/>lick Notaries; and other Perſons Imployed in Writing and Agenting. The Lyon King at Arms, Heraulds, Purſevants, and Meſſengers at Arms; all Collectors, Sub-Collectors, and Farmers of his Majeſties Cuſtoms and Exciſe. All Magiſtrates, Deans of Guilds, Councellors, and Clerks of Burghs, Royal Regallity and Barony, and Deacons of Trades, and Dea<g ref="char:EOLhyphen"/>cons Conve<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ners i<gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ſaid Burghs; all Maſters and Doctors in Univerſi<g ref="char:EOLhyphen"/>ties,
+<pb n="3" facs="tcp:53181:2"/>Colledges, or Schools; all Chaplains in Families, Pedagogues to Children; and all Officers and Souldiers in Arms, Forts, or Militia; and all other perſons in any Publick Truſt or Office within this Kingdom, who ſhall publickly ſwear and ſubſcribe the ſaid Oath as follows: <hi>Viz.</hi>
+            </p>
+            <p>The Arch Biſhops, Chief Commanders of the Forces, and Officers of the Crown and State, and Councellors, before the Secret Councel, all the Lords of Seſſion, and all Members of the Colledge of Juſtice, and others depending upon them, before the Seſſion. The Lords of Juſticiary, and thoſe depending on that Court, the Lords and other Members of Exchequer before the Exchequer. All Biſhops before the Arch Biſhops, all the Inferiour Clergy, Commiſſaries, Maſters and Doctors of Univer<g ref="char:EOLhyphen"/>ſities and Schools, Chaplains and Pedagogues, before the Biſhops of the reſpective Dioceſſes: Sheriffs, Stuarts, Bailies of Royallity and Regallity, and thoſe depending on theſe Juriſdictions, before theſe reſpective Courts.</p>
+            <p>All Provoſts, Bailies and Uſhers of the Burghs before the Town Councel: All Collectors and Farmers of the Rings Cuſtoms and Exciſe, before the Exchequer; the Commiſſioners of the Borders before the Privy Coun<g ref="char:EOLhyphen"/>cel, all Juſtices of Peace before their Conveener, and the Officers of the Mint, before the General of the Mint; and the Officers of the For<g ref="char:EOLhyphen"/>ces before the Commander in Chief, and Common Souldiers before their Reſpective Officers, the Lyon before the Privy Councel, and Heralds Perſuivants and Meſſengers at Arms before the Lyon: And his Majeſty with Conſent foreſaid STATUTES and ORDAINS, That all thoſe who preſently poſſeſs or enjoy any of the foreſaid Offices, Publick Truſts, or Employments, ſhall take and ſubſcribe the following Oath in one of the foreſaid Offices in manner before preſcribed, betwixt and the Firſt of <hi>Ja<g ref="char:EOLhyphen"/>nuary</hi> next; which is to be recorded in the Regiſter of the reſpective Courts and Extracts thereof, under the Clarks hand, to be reported to His Majeſties Privy Council, betwixt and the Firſt of <hi>March</hi> next 1682, and thereafter in any other Courts, whereof they are Judges or Members, the firſt time they ſhall ſit or exerciſe in any of theſe reſpective Courts. And ORDAINS, That all who ſhall hereafter be promoted to, or imployed in any of the foreſaid Offices, Truſts, or Imployments, ſhall at their Entry into, and before their Exerciſing thereof, take and ſubſcribe the ſaid Oath in manner foreſaid, to be recorded in the Regiſters of the reſpective Courts, and reported to His Majeſties Privy Council, within the ſpace of <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> after their taking the ſame: And if any ſhall preſume to exerciſe any of the ſaid Offices or Employments, or any Publick Office or Truſt within this Kingdom (the Kings lawful Brothers and Sons only excepted) until they take the Oath foreſaid and ſubſcribe it; to be recorded in the Regiſter of the reſpective Courts, they ſhall be declared incapable of all Publick Truſts thereafter, and be further puniſhed with the loſs of their Movea<g ref="char:EOLhyphen"/>bles, the one half whereof to be given to the Informer, and the other half to belong to His Majeſty. And His Majeſty, with advice foreſaid, Recommends to his Privy Council, to ſee this Act put to due and vigorous Execution.</p>
+            <q>
+               <pb n="4" facs="tcp:53181:3"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <p>
+                           <hi>I A. B.</hi> Solemnly Swear in Preſence of the Eternal God, whom I Invocate as Judge and Witneſs of my Sincere Intentions in this my Oath;</p>
+                        <p>That I Allow and Sincerely Profeſs the <hi>True Proteſtant Religion</hi> contained in the <hi>Confeſſion of Faith</hi> Recorded in the First Parliament of King <hi>James</hi> the Sixth; And that I believe the ſame to be founded on and agreeable unto the Written Word of God; And I Promiſe and Swear, That I ſhall Adhere thereto all the dayes of my Lif<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>-<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ime; And ſhall endeavor to Educate my Children therein; And ſhall never conſent to any Alteration contrary thereto; And that I Diſallow and Renounce all ſuch Principles, Doctrines or Practices, whether <hi>Popiſh</hi> or <hi>Fanatical,</hi>which are contrary unto, and inconſiſtent with the ſaid <hi>Proteſtant Religion,</hi> and <hi>Confeſſion of Faith.</hi>
+                        </p>
+                        <p>And for Teſtification of my Obedience to my most Gracious Sovereign <hi>CHARLES</hi> the Second, I do Affirm and Swear by this my Solemn Oath, That the Kings Majeſty is the Onely Supreme Governor of this Realm, over all Perſons, and in all Cauſes, as well Eccleſiaſtical as Civil; And that no Foreign Prince, Perſon, Pope, Prelate, State or Potentate, hath, or ought to have any Juriſdiction, Power, Superiority, Preheminence or Authority, Eccleſiaſtical or Civil, within this Realm; And therefore I do utterly Renounce and Forſake all Foreign Juriſdictions, Powers, Superiorities and Authorities.</p>
+                        <p>And do promiſe that from henceforth, I ſhall bear Faith and true Allegiance to the Kings Majeſty, His Heirs and Lawful Succeſſors; And to my Power ſhall All it and Defend all Rights, Juriſdictions, Prerogatives and Priviledges, Pre<g ref="char:EOLhyphen"/>heminencies and Authorities belonging to the Kings Majeſty, His Heirs and Law<g ref="char:EOLhyphen"/>ful Succeſſors.</p>
+                        <p>And I further Affirm and Swear by this my Solemn Oath, That I judge it Unlawful for Subjects, upon Pretence of Reformation, or any other Pretence what<g ref="char:EOLhyphen"/>ſomever, to enter into Covenants or Leagues, or to Convocate, Conv<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>n<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, or Aſſemble in any Councels, Conventions, or Aſſemblies, to Treat, Conſult, or Determine in any matter of State, Civil or Eccleſiaſtical, without His Majeſties Special Command, or Expreſs Licence had thereto; or to take up Arms against the King, or thoſe Commiſſion'd by Him; And that I ſhall never ſo riſe in Arms, or enter into ſuch Covenants or Aſſemblies.</p>
+                        <p>And that there lies no Obligation on me from the <hi>National Covenant,</hi> or the <hi>Solemn League or Covenant,</hi> [ſo commonly called] or any other manner of way whatſoever, to endeavor any Change or Alteration in the Government either in Church or State, as it is now Eſtabliſhed by the Laws of this Kingdom; And I Promiſe and Swear, That I ſhall with my utmost Power Defend, Aſſist and Maintain His Majeſties Juriſdiction aforeſaid; And I ſhall never decline His Ma<g ref="char:EOLhyphen"/>jeſties Juriſdiction, as I ſhall anſwer to God.</p>
+                        <p>And Finally, I Affirm and Swear, That this my Solemn Oath is given in the plain, genuine Senſe and Meaning of the Words, without any Eq<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ivocation; Mental Reſervation, or any manner of Evaſion whatſoever; And that I ſhall not accept or uſe any Diſpenſation from any Creature therefore.</p>
+                        <closer>So help me God.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Randal Taylor.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
